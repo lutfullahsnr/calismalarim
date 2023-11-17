@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//Girilen sayının mükemmel sayı kontrolü
 {
 	int sayi ,i ,toplam;
 	toplam = 0;
