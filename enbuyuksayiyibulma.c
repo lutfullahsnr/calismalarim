@@ -1,5 +1,6 @@
 #include <stdio.h> 
 int main()
+//Girilen üç değerden en büyüğünü bulma
 {
      int x,y,z;
 
