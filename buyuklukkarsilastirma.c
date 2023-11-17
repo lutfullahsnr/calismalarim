@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//Girilen iki sayının büyüklük karşılaştırması
 {
      int a,b;
      printf("Lutfen sirasiyla a ve b sayilarini giriniz.\n");
