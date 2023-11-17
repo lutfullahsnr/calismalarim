@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//N adet sayının toplamı ve ortalaması
 {
 	int i,n;
 	float ort,sayi,toplam;
