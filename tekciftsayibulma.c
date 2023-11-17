@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//Girilen sayının tek-çift kontrolü
 {
      int x;
      printf("Lutfen bir sayi giriniz...");
