@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//Klavyeden girilen işlem türüne göre dairenin çevre veya alanını hesaplama
 {
 	int yaricap,islem;
 	float pi=3.14;
