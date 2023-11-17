@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main()
+//Girilen sayının asal sayı kontrolü
 {
 	int sayi,i,bolen;
 	bolen=0;
